@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', 'root', 'uptask_mvc');
+$db = mysqli_connect('localhost', '', '', 'uptask_mvc');
 $db->set_charset("utf8");
 
 
